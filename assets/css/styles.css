@@ -18,7 +18,7 @@
 /*===== Fonts =====*/
 :root {
   --body-font: "DynaPuff", cursive;
-  --big-font-size: 6.25rem;
+  --big-font-size: 6.2rem;
   --h2-font-size: 1.25rem;
   --normal-font-size: 0.938rem;
   --small-font-size: 0.813rem;
@@ -196,7 +196,7 @@ img {
   align-self: flex-end;
   font-size: var(--big-font-size);
   color: var(--white-color);
-  line-height: 0.8;
+  line-height: 0.7;
 }
 .home__title span {
   text-shadow: 0 20px 20px rgba(0, 0, 0, 0.5);
@@ -209,7 +209,7 @@ img {
   position: absolute;
   right: 0;
   bottom: 0;
-  width: 290px;
+  width: 247px;
 }
 /*===== ABOUT =====*/
 .about__container {
@@ -423,7 +423,7 @@ img {
     row-gap: 0;
   }
   .home__img {
-    width: 524px;
+    width: 490px;
     right: 10%;
   }
   .about__container {
@@ -467,10 +467,10 @@ img {
     margin-right: auto;
   }
   .home__container {
-    height: 540px;
+    height: 510px;
   }
   .home__img {
-    width: 500px;
+    width: 460px;
     right: 17%;
   }
 }
@@ -481,7 +481,7 @@ img {
     height: 540px;
   }
   .home__img {
-    width: 450px;
+    width: 400px;
     right: 24%;
   }
 }
