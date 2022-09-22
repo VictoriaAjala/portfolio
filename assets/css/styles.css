@@ -25,7 +25,7 @@
 }
 @media screen and (min-width: 768px) {
   :root {
-    --big-font-size: 10.5rem;
+    --big-font-size: 10rem;
     --h2-font-size: 2rem;
     --normal-font-size: 1rem;
     --small-font-size: 0.875rem;
@@ -196,7 +196,7 @@ img {
   align-self: flex-end;
   font-size: var(--big-font-size);
   color: var(--white-color);
-  line-height: 0.7;
+  line-height: 0.8;
 }
 .home__title span {
   text-shadow: 0 20px 20px rgba(0, 0, 0, 0.5);
